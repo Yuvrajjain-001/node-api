@@ -1,0 +1,62 @@
+[
+  {
+    "name": "iphone",
+    "price": 154,
+    "feature": true,
+    "company": "samsung"
+  },
+  {
+    "name": "iphone8",
+    "price": 14,
+    "feature": true,
+    "company": "vivo"
+  },
+  {
+    "name": "Galaxy 8",
+    "price": 1542,
+    "feature": true,
+    "company": "samsung"
+  },
+  {
+    "name": "Galaxy 9",
+    "price": 1541,
+    "feature": true,
+    "company": "samsung"
+  },
+  {
+    "name": "10 R",
+    "price": 1545,
+    "feature": true,
+    "company": "oneplus"
+  },
+  {
+    "name": "11 R",
+    "price": 165,
+    "feature": true,
+    "company": "oneplus"
+  },
+  {
+    "name": "mi 11x",
+    "price": 166,
+    "feature": true,
+    "company": "mi"
+  },
+  {
+    "name": "iphone9",
+    "price": 174,
+    "feature": true,
+    "company": "mi"
+  },
+  {
+    "name": "nord 2t",
+    "price": 124,
+    "feature": true,
+    "company": "oneplus"
+  },
+  {
+    "name": "v21 pro",
+    "price": 54,
+    "feature": true,
+    "company": "vivo"
+  }
+]
